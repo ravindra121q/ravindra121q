@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile+page" alt="Typing SVG" /></a>
 </p>	
-<a href="http://example.com" target="_blank" rel="noopener">Link</a>
+[link](https://example.com){:target="_blank"}
 
 
 
