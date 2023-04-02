@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravindra</h1>
 <h3 align="center">Student at Masai School, Bangalore🌟.</h3>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile+page" alt="Typing SVG" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github+Profile+Page..&hearts;++;Love+to+learn+new+stuffs.."></a>
 </p>	
-
-
-
 <br>
-
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ravindra121q&label=Profile%20views&color=0e75b6&style=flat"
     alt="Ravindra" /> 
   </p>
