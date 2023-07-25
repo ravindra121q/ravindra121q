@@ -9,7 +9,7 @@
   </p>
 
 <br>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Ravindra" /></p>
 
 
 - 🌱 I’m currently learning Full Stack Web Development
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ravindra-kumar-a148791a6" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/ravindra-000502272/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="Ravindra" height="30" width="40" /></a>
   <a href="https://www.facebook.com/ravindra.kumartilotia.3/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Ravindra" height="30" width="40" /></a>
@@ -65,7 +65,7 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindra121q&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+    alt="Ravindra" /></p>
 
 <br>
 
