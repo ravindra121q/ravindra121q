@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development
 
-- 📫 How to reach me **ravindrakumartilotia4@gmail.com**
+- 📫 How to reach me **ravindra.dev07@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 - :boom: You can visit [MY WEBSITE](https://ravindra121q.github.io/).
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ravindra-000502272/" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/ravindra-7159112a0/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Ravindra" height="30" width="40" /></a>
   <a href="https://www.facebook.com/ravindra.kumartilotia.3/" target="blank"><img align="center"
