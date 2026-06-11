@@ -1,50 +1,46 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=Ravindra%20Kumar&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Frontend%20React%20Developer%20⚡&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:1E293B,100:312E81&text=Ravindra%20Kumar&fontSize=65&fontColor=00F5FF&animation=fadeIn&fontAlignY=40&desc=Frontend%20React%20Developer%20⚡&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+React.js+Developer+⚛️;Building+Scalable+Web+Applications+🚀;Performance+Optimization+Expert+⚡;JavaScript+%7C+React+%7C+Vite+%7C+Node.js;Always+Learning+New+Things+📚"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Frontend+React.js+Developer+⚛️;Building+Scalable+Web+Applications+🚀;Performance+Optimization+Enthusiast+⚡;JavaScript+%7C+React+%7C+Vite+%7C+Node.js;Always+Learning+Something+New+📚"/>
 
-<img src="https://komarev.com/ghpvc/?username=ravindra121q&style=for-the-badge&color=blueviolet"/>
+<br>
+
+<img src="https://img.shields.io/github/followers/ravindra121q?style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/stars/ravindra121q?style=for-the-badge&color=orange"/>
+<img src="https://komarev.com/ghpvc/?username=ravindra121q&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 🚀 Frontend React Developer | JavaScript Developer | React.js Expert | Vite | Tailwind CSS | Node.js | MongoDB
+<div align="center">
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749695-fb7e3d5b-93d8-4c89-b31c-2bda8f4b6e67.gif">
+<img width="850" src="https://user-images.githubusercontent.com/74038190/216649433-0b7f5b93-b4f8-4b5b-a07f-6e8c3c3b3d8f.gif">
 
-## 👨‍💻 About Me
+</div>
 
-Frontend React Developer with **2+ years of experience** building scalable, high-performance, and SEO-friendly web applications using modern technologies.
+# 💫 About Me
 
-### 🔥 Specialization
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- React.js Development
-- Frontend Architecture
-- JavaScript (ES6+)
-- Vite
-- Tailwind CSS
-- Redux Toolkit
-- REST API Integration
-- Performance Optimization
-- Code Splitting & Lazy Loading
-- Reusable Components
-- SEO Optimization
-- Responsive UI Development
-- JWT Authentication
-- RBAC
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-- AWS Amplify
+### 🚀 Frontend React Developer
+
+- ⚛️ 2+ Years Experience
+- 🔥 React.js Specialist
+- ⚡ Performance Optimization
+- 🎨 Tailwind CSS
+- 📱 Responsive UI Development
+- 🌍 SEO Friendly Applications
+- 🔄 REST API Integration
+- 🧩 Reusable Component Architecture
+- ☁️ Firebase & AWS Amplify
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ravindra-react-developer/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -58,8 +54,7 @@ Frontend React Developer with **2+ years of experience** building scalable, high
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-
-</p>
+</div>
 
 ---
 
@@ -75,7 +70,7 @@ Frontend React Developer with **2+ years of experience** building scalable, high
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=8"/>
 
-### Tools & Platforms
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,netlify&perline=8"/>
 
@@ -83,93 +78,37 @@ Frontend React Developer with **2+ years of experience** building scalable, high
 
 ---
 
-# 💼 Professional Experience
-
-## 🚀 Frontend React Developer | LiuS Consulting Pvt Ltd (Client: Salesforce)
-
-- Developed enterprise Master Data Management applications.
-- Built reusable React.js components.
-- Integrated REST APIs.
-- Resolved dependency vulnerabilities.
-- Improved frontend maintainability and performance.
-
----
-
-## 🚀 Frontend React Developer | Flyweis Technology
-
-- Developed production-grade React applications.
-- Improved Core Web Vitals by 40%.
-- Increased user engagement by 35%.
-- Implemented JWT Authentication and RBAC.
-- Built SEO-friendly responsive interfaces.
-- Created reusable component architecture.
-
----
-
 # 🚀 Featured Projects
 
-<table>
+## 📚 Digital Benchers
 
-<tr>
+> AI Powered EdTech Platform
 
-<td width="50%">
+⚛️ React.js • Tailwind CSS • Axios
 
-### 📚 Digital Benchers
+---
 
-AI Powered EdTech Platform
+## 🏥 OasisNotes
 
-- React.js
-- Tailwind CSS
-- Axios
-- Performance Analytics
+> Electronic Health Record Platform
 
-</td>
+⚛️ React.js • Vite • React Query
 
-<td width="50%">
+---
 
-### 🏥 OasisNotes
+## 🌍 Atlo Platform
 
-Electronic Health Record Platform
+> Scalable Frontend Platform
 
-- React.js
-- Vite
-- React Query
-- Tailwind CSS
+⚛️ React.js • Firebase
 
-</td>
+---
 
-</tr>
+## 💼 EasyAdvising
 
-<tr>
+> Advisor Platform
 
-<td width="50%">
-
-### 🌍 Atlo Platform
-
-Scalable Frontend Platform
-
-- React.js
-- Firebase
-- Responsive Design
-
-</td>
-
-<td width="50%">
-
-### 💼 EasyAdvising
-
-Advisor Platform
-
-- React.js
-- Formik
-- Razorpay API
-- Tailwind CSS
-
-</td>
-
-</tr>
-
-</table>
+⚛️ React.js • Formik • Razorpay API
 
 ---
 
@@ -187,17 +126,11 @@ Advisor Platform
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravindra121q&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=ravindra121q&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindra121q&theme=tokyonight&hide_border=true"/>
+<img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindra121q&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindra121q&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindra121q&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -223,50 +156,6 @@ Advisor Platform
 
 ---
 
-# 🔥 Expertise
-
-✅ React.js Developer
-
-✅ Frontend Developer
-
-✅ JavaScript Developer
-
-✅ Vite Developer
-
-✅ Redux Toolkit
-
-✅ Tailwind CSS
-
-✅ REST APIs
-
-✅ Node.js Developer
-
-✅ Express.js
-
-✅ MongoDB
-
-✅ Firebase
-
-✅ AWS Amplify
-
-✅ React Query
-
-✅ Context API
-
-✅ JWT Authentication
-
-✅ RBAC
-
-✅ SEO Optimization
-
-✅ Performance Optimization
-
-✅ Responsive Web Design
-
-✅ Reusable Components
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -277,30 +166,57 @@ Advisor Platform
 
 ---
 
+# 💻 Coding Activity
+
+<div align="center">
+
+<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=ravindra121q&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/ravindra121q?theme=dark&font=JetBrains%20Mono"/>
+
+</div>
+
+---
+
 # 💡 Developer Mindset
 
 ```text
-Code ⚡
-Build 🚀
-Optimize 🔥
-Learn 📚
-Repeat ♾️
+while(alive){
+
+    code();
+    build();
+    optimize();
+    learn();
+
+}
 ```
 
 ---
 
-# 🔍 Keywords
+# ✨ Quote Of The Day
 
-React Developer • Frontend Developer • JavaScript Developer • React.js Developer • Vite Developer • Redux Toolkit • Tailwind CSS • Node.js Developer • Express.js • MongoDB Developer • Firebase Developer • AWS Amplify • REST APIs • Performance Optimization • SEO Friendly Websites • React Query • Context API • JWT Authentication • RBAC • Full Stack Developer
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:0F172A,50:1E293B,100:312E81"/>
 
-### ⭐ Thanks For Visiting My Profile ⭐
+<h3>⭐ Thanks For Visiting My Profile ⭐</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Happy+Coding+🚀;See+You+Again+👋"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=22D3EE&center=true&vCenter=true&width=600&lines=Happy+Coding+🚀;See+You+Again+👋;Keep+Building+Awesome+Things+⚡"/>
 
 </div>
