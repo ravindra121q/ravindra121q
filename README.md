@@ -58,13 +58,6 @@ Frontend React Developer with **2+ years of experience** building scalable, high
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.instagram.com/ravindrarkt/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://www.hackerrank.com/ravindrakumarti1">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
 
 </p>
 
