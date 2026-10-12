@@ -60,7 +60,7 @@ Frontend Engineer with **3+ years of experience** building production-grade web 
 | **Digital Benchers** | [🌐 Live Site](https://digitalbenchers.com/) | AI-powered EdTech examination engine, real-time score analytics (+40% user engagement) | `React.js` `Tailwind CSS` `Axios` `Node.js` |
 | **OasisNotes** | [🌐 Live Site](https://oasisnotes.com/) | HIPAA-compliant clinical EHR platform, treatment plan builder, optimistic cache sync | `React 18` `Vite` `TanStack Query` `REST APIs` |
 | **Build Corp** | [🌐 Live Demo](https://build-corp-chi.vercel.app/) | Corporate web platform with bespoke decoupled visual admin CMS and JWT RBAC auth | `MERN Stack` `Framer Motion` `JWT` `Node.js` |
-| **Flipbook Pro** | [🌐 Live Demo](https://flipbook-viewer-pro.vercel.app/) | 60 FPS interactive HTML5 Canvas 3D PDF reader with physics-based page curl | `HTML5 Canvas` `PDF.js` `React` `Tailwind` |
+
 
 ---
 
@@ -89,10 +89,10 @@ Frontend Engineer with **3+ years of experience** building production-grade web 
 
 <div align="center">
 
-<!-- Verified Contribution Streak (Live & Operational) -->
+<!-- Verified Contribution Streak -->
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindra121q&theme=tokyonight&hide_border=true&ring=10b981&fire=10b981&currStreakLabel=10b981"/>
 
-<!-- Language Distribution Breakdown (Live & Operational) -->
+<!-- Language Distribution Breakdown -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindra121q&layout=compact&theme=tokyonight&hide_border=true&title_color=10b981"/>
 
 <br><br>
@@ -120,5 +120,9 @@ Frontend Engineer with **3+ years of experience** building production-grade web 
 <p>
   <a href="https://ravindra-dev07.vercel.app/"><b>Explore My Full Interactive Portfolio & Live Case Studies →</b></a>
 </p>
+
+<br>
+
+<sub>© 2026 <b>Ravindra Kumar</b>. All rights reserved. Portfolio architecture, technical case studies, and design tokens are proprietary work. Unauthorized reproduction, commercial distribution, or identity impersonation is strictly prohibited.</sub>
 
 </div>
